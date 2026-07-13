@@ -91,4 +91,4 @@ I am a **Computer Science student at UCLA** interested in **distributed systems*
 
 ### 🎖️ Recognition
 
-**Former US Chess Top 100 Junior** · **AIME Qualifier** · **U.S. National Chemistry Olympiad National Exam Participant** · **A-Eye: MLH Best Use of ElevenLabs Winner** · **Stanford HAI AI+Education Summit Table Presenter** · **ACM SIGCOMM '24 Research Contributor** · **Valedictorian**
+**Former US Chess Top 100 Junior** · **USNCO Finalist (USA National Chemistry Olympiad)** · **A-Eye: MLH Best Use of ElevenLabs Winner** · **Stanford HAI AI+Education Summit Table Presenter** · **ACM SIGCOMM '24 Research Contributor** · **Valedictorian**
