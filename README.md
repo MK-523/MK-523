@@ -43,7 +43,6 @@ I am a **Computer Science student at UCLA** interested in **distributed systems*
 |:--|:--|
 | **🔎 ChessStalker**<br>[App](https://chessstalker.com/)<br>[Case study](CHESSSTALKER_CASE_STUDY.md)<br>[Hikaru video](https://www.youtube.com/watch?v=lHFyIkjdGf0) | Opponent-preparation reports from Lichess, Chess.com, and FIDE histories.<br><sub>Opening trees · Stockfish-backed workflows · rating-conditioned Monte Carlo simulations · featured throughout a 29-minute video on Hikaru's official channel.</sub> |
 | **🧊 Runtime artifact research**<br>[Benchmark workspace](https://github.com/MK-523/hivejit-openfaas) | Experiments in preserving useful optimization work across short-lived compute.<br><sub>Artifact export/import · cache-keying · cold-start measurement · portability validation across V8, LLVM, Go, JAX/XLA, JVM, Julia, and .NET.</sub> |
-| **🌊 UAS — Unsteady Flow Signal Toolkit**<br>[Repository](https://github.com/MK-523/unsteady-flow-research)<br>[Methodology](https://github.com/MK-523/unsteady-flow-research/blob/main/docs/methodology.md)<br>[Tests](https://github.com/MK-523/unsteady-flow-research/tree/main/tests) | A reproducible Python toolkit for exploring reduced-order unsteady-flow and aeroacoustic signals in the time and frequency domains.<br><sub>Seeded turbulence · damped jet acoustics · wind-turbine harmonics · shock-position recovery · normalized FFT and Welch spectra · tested CLI exports.</sub> |
 | **🚦 A-Eye**<br>[Code](https://github.com/AK20202007/A-Eye)<br>[Decision layer](https://github.com/AK20202007/A-Eye/pull/2)<br>[Demo](https://www.youtube.com/watch?v=m7Ee3nlPFwQ)<br>[Devpost](https://devpost.com/software/a-eye-pk9sdw) | Contributed to a blind and low-vision navigation prototype combining perception, route state, and speech.<br><sub>Severity-aware alerts · repeat suppression · stale-state handling · low-confidence fallbacks · explicit street-crossing confirmation · winner of MLH Best Use of ElevenLabs at LA Hacks 2026.</sub> |
 | **🎻 Lyrics + emotion analysis**<br>[Repository](https://github.com/MK-523/NLP-music-sentimentanalysis)<br>[Methodology](https://github.com/MK-523/NLP-music-sentimentanalysis/blob/c8bf706441a6ea837f1332097350314888dcf663/docs/METHODOLOGY.md)<br>[Tests](https://github.com/MK-523/NLP-music-sentimentanalysis/blob/c8bf706441a6ea837f1332097350314888dcf663/tests/test_pipeline.py) | An offline-first toolkit for turning lyric datasets into structured, reviewable emotion profiles.<br><sub>Proposed and led independently with periodic Stanford mentor guidance · deterministic baseline · validated CSV/JSONL · optional Transformers inference · self-contained reports · explicit methodology and no mental-state claims.</sub> |
 | **📰 ChessLife Discovery Demo**<br>[Demo repository](https://github.com/MK-523/uschess-webdemo) | A public, scaled-down reconstruction of publication-search work from my US Chess internship.<br><sub>SQLite + FTS5 · browser search · accessible UI · explainable recommendations · no private data or production code.</sub> |
@@ -87,6 +86,16 @@ I am a **Computer Science student at UCLA** interested in **distributed systems*
   - Implemented OCaml pipelines for ISP-advertised download-bitrate benchmarks, sampling algorithms, and serviceability/compliance checks against the FCC's 10 Mbps threshold.
   - Ran sensitivity analyses and generated publication figures across 687,000 addresses in 15 states for an [ACM SIGCOMM '24 study](https://arxiv.org/abs/2405.18657).
   - Contributed empirical analysis to research reporting 55% weighted serviceability and 33% weighted compliance among addresses reported served by ISPs.
+
+---
+
+### 🏫 Campus Involvement
+
+- **🚀 VEST at UCLA** — *Board Member (Finance)* (2026–Present)
+  - Manage budgeting, sponsorships, and partnerships for UCLA's selective builder and startup community; coordinate LA Tech Week operations with a16z, Cognition, and startup/VC partners.
+
+- **🛰️ UCLA Unmanned Aerial Systems (UAS)** — *Computer Vision Team* (Oct 2025–Present)
+  - Built a real-time YOLO/OpenCV tracking pipeline for an autonomous drone, connecting 50 FPS visual perception with ROS and PID flight-control loops.
 
 ---
 
