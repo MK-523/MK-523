@@ -69,23 +69,13 @@ I am a **Computer Science student at UCLA** interested in **distributed systems*
 ### 📍 Experience
 
 - **Flex** — *Software Engineering / Machine Learning Engineering Intern* (2026)
-  - Helped build Python and TypeScript services for an underwriting and risk-decisioning platform.
-  - Helped build React/ReactFlow decision-observability tools that shortened internal engineering review walkthroughs from 30–60 minutes to under five minutes.
-  - Re-engineered nested JSON policy rulebooks and credit-limit logic as type-safe services with traceable inputs, calculations, and outputs.
 
 - **UCLA Programmable Software Systems Lab** — *Undergraduate Research Assistant* (2025–Present)
-  - Investigate reusable optimization artifacts and cache behavior for short-lived runtime workloads.
-  - Build reproducible Linux, Docker, Kubernetes, OpenFaaS, and Redis experiments that separate container, runtime, compilation, and cache-reuse costs.
-  - In controlled JVM experiments, measured first-request latency moving from 337 ms to 125 ms.
 
 - **US Chess** — *Web Developer Intern* (2023–2024)
-  - Contributed to a searchable SQL-backed [Chess Life Digital Archive](https://new.uschess.org/chess-life-digital-archives) and shipped web updates for a publication serving more than 250,000 monthly readers.
-  - Deployed Drupal/Pantheon, Git, HTML5, and jQuery changes across archive and content workflows.
 
 - **UC Santa Barbara** — *Research Assistant* (2022–2025)
-  - Implemented OCaml pipelines for ISP-advertised download-bitrate benchmarks, sampling algorithms, and serviceability/compliance checks against the FCC's 10 Mbps threshold.
-  - Ran sensitivity analyses and generated publication figures across 687,000 addresses in 15 states for an [ACM SIGCOMM '24 study](https://arxiv.org/abs/2405.18657).
-  - Contributed empirical analysis to research reporting 55% weighted serviceability and 33% weighted compliance among addresses reported served by ISPs.
+
 
 ---
 
